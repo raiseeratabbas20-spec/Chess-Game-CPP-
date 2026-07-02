@@ -1,0 +1,12 @@
+﻿  Bishop.cpp
+  Board.cpp
+  Game.cpp
+  King.cpp
+  Knight.cpp
+  Main.cpp
+  Pawn.cpp
+  Piece.cpp
+  Queen.cpp
+  Rook.cpp
+  Generating Code...
+  Chess.vcxproj -> C:\Users\BISMILLAH\OneDrive\Desktop\Chess\x64\Debug\Chess.exe
